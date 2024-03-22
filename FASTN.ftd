@@ -3,17 +3,10 @@
 -- fastn.package: fastn-community.github.io/red-abstract-pattern
 favicon: /-/fastn-community.github.io/red-abstract-pattern/favicon.ico
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
--- fastn.dependency: fastn-community.github.io/dark-flame-cs
+-- fastn.dependency: fastn-community.github.io/inter-typography
+-- fastn.dependency: fastn-community.github.io/design-system
+provided-via: fastn-community.github.io/red-abstract-pattern/ds
 
--- fastn.auto-import: fastn-community.github.io/red-abstract-pattern/FASTN/ds
 -- fastn.auto-import: fastn-community.github.io/red-abstract-pattern/assets
--- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
+-- fastn.auto-import: fastn-community.github.io/red-abstract-pattern/ds
+-- fastn.auto-import: fastn-community.github.io/red-abstract-pattern/lib
